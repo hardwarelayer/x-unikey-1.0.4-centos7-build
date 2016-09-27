@@ -1,6 +1,6 @@
 Unikey Input Method for X-Window
-Copyright (C) 2004 Pham Kim Long
 ================================
+Copyright (C) 2004 Pham Kim Long
 
 This package contains following components:
 - ukxim: Unikey XIM (X Input Method) server
